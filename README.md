@@ -5,6 +5,8 @@ This repository contains information related to the tool CEL presented in the In
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 * :white_check_mark: [The original project page](http://cel.inf.usi.ch/) (available)
+* :x: The original download page (not available)
+* :white_check_mark: [The original video](http://cel.inf.usi.ch/index.php?action=gallery) ( available)
 
 
 In this repository, for CEL you will find:
