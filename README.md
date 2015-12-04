@@ -5,7 +5,10 @@ This repository contains information related to the tool CEL presented in the In
 This repository _is not_ the original repository for this tool. Here is the [link](http://cel.inf.usi.ch/) to the original project:
 In this repository, for CEL you will find:
 * :x: Source code (not available)
+* :x: Binaries of the project (not available)
 * :x: The original tool (not available)
+* :x: Vagrant script to create the Virtual machine containing the tool (not available)
+* :x: Virtual machine containing the tool (not available)
 
 The tool was certified unworkable because the authors didn't have the tool with them. Also the App isn't available on the US App Store. 
 
