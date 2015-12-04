@@ -10,7 +10,7 @@ In this repository, for CEL you will find:
 * :x: Vagrant script to create the Virtual machine containing the tool (not available)
 * :x: Virtual machine containing the tool (not available)
 
-The tool was certified unworkable because the authors didn't have the tool with them. Also the App isn't available on the US App Store. 
+Note: The tool was certified unworkable because the authors didn't have the tool with them. Also the App isn't available on the US App Store. 
 
 
 This repository was constructed by [Priyadarshini Rajagopal](https://github.com/PriyadarshiniRajagopal) and [Kahan Prabhu](https://github.com/KahanPrabhu) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
