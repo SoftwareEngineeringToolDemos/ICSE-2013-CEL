@@ -11,10 +11,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for CEL you will find:
 * :x: Source code (not available)
-* :x: Binaries of the project (not available)
-* :x: The original tool (not available)
-* :x: Vagrant script to create the Virtual machine containing the tool (not available)
-* :x: Virtual machine containing the tool (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 Note: The tool was certified unworkable because the authors didn't have the tool with them. Also the App isn't available on the US App Store. 
 
